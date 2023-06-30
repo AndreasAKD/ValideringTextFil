@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AndreasDahlgren\\source\\repos\\NCValidatorVersion2\\NCValidatorVersion2\\NCValidatorVersion2.csproj",
+      "projectUniqueName": "C:\\Users\\AndreasDahlgren\\Source\\Repos\\ValideringTextFil\\NCValidatorVersion2\\NCValidatorVersion2\\NCValidatorVersion2.csproj",
       "projectName": "NCValidatorVersion2",
-      "projectPath": "C:\\Users\\AndreasDahlgren\\source\\repos\\NCValidatorVersion2\\NCValidatorVersion2\\NCValidatorVersion2.csproj",
+      "projectPath": "C:\\Users\\AndreasDahlgren\\Source\\Repos\\ValideringTextFil\\NCValidatorVersion2\\NCValidatorVersion2\\NCValidatorVersion2.csproj",
       "packagesPath": "C:\\Users\\AndreasDahlgren\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AndreasDahlgren\\source\\repos\\NCValidatorVersion2\\NCValidatorVersion2\\obj\\",
+      "outputPath": "C:\\Users\\AndreasDahlgren\\Source\\Repos\\ValideringTextFil\\NCValidatorVersion2\\NCValidatorVersion2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AndreasDahlgren\\AppData\\Roaming\\NuGet\\NuGet.Config",

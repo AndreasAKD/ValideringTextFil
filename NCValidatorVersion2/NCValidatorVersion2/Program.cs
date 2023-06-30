@@ -218,7 +218,7 @@ class Program
         // Itererar genom varje element i raden
         foreach (string element in elements)
         {
-            // Kontrollerar om elementet är en tom sträng eller om det innehåller vittutrymme
+            // Kontrollerar om elementet är en tom sträng eller om det innehåller whitespace
             if (!string.IsNullOrEmpty(element.Trim()) || !firstElementSkipped)
             {
                 // Kontrollerar om det är det första elementet och hoppar över inledande blanksteg eller tomma element

@@ -25,7 +25,7 @@ ST
  0.000
  TRAEGER
  
-
+**Har pajat rad 30 genom att slå ihop sista 0.00 med 79.500, då blir det två värden bara på den raden och det slår ifrån
 PR
  +	0.000	79.5000.00
  +	48.000	79.500	0.00
