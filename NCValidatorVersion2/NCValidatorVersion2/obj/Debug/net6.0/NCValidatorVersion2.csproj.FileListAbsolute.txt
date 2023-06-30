@@ -1,0 +1,15 @@
+C:\Users\AndreasDahlgren\source\repos\NCValidatorVersion2\NCValidatorVersion2\bin\Debug\net6.0\NCValidatorVersion2.exe
+C:\Users\AndreasDahlgren\source\repos\NCValidatorVersion2\NCValidatorVersion2\bin\Debug\net6.0\NCValidatorVersion2.deps.json
+C:\Users\AndreasDahlgren\source\repos\NCValidatorVersion2\NCValidatorVersion2\bin\Debug\net6.0\NCValidatorVersion2.runtimeconfig.json
+C:\Users\AndreasDahlgren\source\repos\NCValidatorVersion2\NCValidatorVersion2\bin\Debug\net6.0\NCValidatorVersion2.dll
+C:\Users\AndreasDahlgren\source\repos\NCValidatorVersion2\NCValidatorVersion2\bin\Debug\net6.0\NCValidatorVersion2.pdb
+C:\Users\AndreasDahlgren\source\repos\NCValidatorVersion2\NCValidatorVersion2\obj\Debug\net6.0\NCValidatorVersion2.csproj.AssemblyReference.cache
+C:\Users\AndreasDahlgren\source\repos\NCValidatorVersion2\NCValidatorVersion2\obj\Debug\net6.0\NCValidatorVersion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndreasDahlgren\source\repos\NCValidatorVersion2\NCValidatorVersion2\obj\Debug\net6.0\NCValidatorVersion2.AssemblyInfoInputs.cache
+C:\Users\AndreasDahlgren\source\repos\NCValidatorVersion2\NCValidatorVersion2\obj\Debug\net6.0\NCValidatorVersion2.AssemblyInfo.cs
+C:\Users\AndreasDahlgren\source\repos\NCValidatorVersion2\NCValidatorVersion2\obj\Debug\net6.0\NCValidatorVersion2.csproj.CoreCompileInputs.cache
+C:\Users\AndreasDahlgren\source\repos\NCValidatorVersion2\NCValidatorVersion2\obj\Debug\net6.0\NCValidatorVersion2.dll
+C:\Users\AndreasDahlgren\source\repos\NCValidatorVersion2\NCValidatorVersion2\obj\Debug\net6.0\refint\NCValidatorVersion2.dll
+C:\Users\AndreasDahlgren\source\repos\NCValidatorVersion2\NCValidatorVersion2\obj\Debug\net6.0\NCValidatorVersion2.pdb
+C:\Users\AndreasDahlgren\source\repos\NCValidatorVersion2\NCValidatorVersion2\obj\Debug\net6.0\NCValidatorVersion2.genruntimeconfig.cache
+C:\Users\AndreasDahlgren\source\repos\NCValidatorVersion2\NCValidatorVersion2\obj\Debug\net6.0\ref\NCValidatorVersion2.dll
